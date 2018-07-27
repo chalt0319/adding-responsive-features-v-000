@@ -42,10 +42,10 @@
 }
 
 @media only screen and (max-width: 800px) {
-  .col-2 {
+  #promotional .col-2 {
     width: 100%;
   }
-  .col-1 {
+  #news .col-1 {
     width: 100%;
     margin: 0 auto 20px;
   }

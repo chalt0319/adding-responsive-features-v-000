@@ -43,9 +43,11 @@
 
 @media only screen and (max-width: 800px) {
   #promotional.col-2 {
+    float: none;
     width: 100%;
   }
   #news.col-1 {
+    float: none;
     width: 100%;
     margin: 0 auto 20px;
   }

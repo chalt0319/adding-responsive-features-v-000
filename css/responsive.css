@@ -56,5 +56,6 @@
   #details {
     float: none;
     display: block;
+    column-count: 1;
   }
 }

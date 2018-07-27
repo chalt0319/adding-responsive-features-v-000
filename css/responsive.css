@@ -57,6 +57,7 @@
     float: none;
     margin-left: 0;
     border-right: 0;
+    padding: 10px;
   }
   #details div {
     height: auto;

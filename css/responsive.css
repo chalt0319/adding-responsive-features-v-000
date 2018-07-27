@@ -54,16 +54,16 @@
 }
 @media only screen and (max-width: 650px) {
   .border-right {
-    
+    float: none;
     margin-left: 0;
     border-right: 0;
   }
   #details div {
     height: auto;
-    padding: 10px;
+
   }
   #details.col-1 {
     margin-left: 0;
-    float: none;
+    padding: 10px;
   }
 }

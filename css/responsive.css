@@ -62,11 +62,9 @@
   #details div {
     height: auto;
     margin-left: 0;
-    float: none;
   }
   #details.col-1 {
     margin-left: 0;
     padding: 10px;
-    float: none;
   }
 }

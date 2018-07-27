@@ -54,8 +54,6 @@
 }
 @media only screen and (max-width: 650px) {
   #details {
-    float: none;
-    display: block;
-    column-count: 1;
+  border-right: 0;
   }
 }
